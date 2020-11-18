@@ -10,25 +10,25 @@ title: News
 {%
   include card.html
   size="medium"
-  image="images/bacteria.jpg"
+  image="images/huaypong.jpg"
   heading="โรงเรียนวัดห้วยโป่ง"
 %}
 {%
   include card.html
   size="medium"
-  image="images/bacteria.jpg"
+  image="images/srapannak.jpg"
   heading="โรงเรียนบ้านเขาสระพานนาค"
 %}
 {%
   include card.html
   size="medium"
-  image="images/bacteria.jpg"
+  image="images/khamgan.jpg"
   heading="โรงเรียนพระธาตุขามแก่น"
 %}
 {%
   include card.html
   size="medium"
-  image="images/bacteria.jpg"
+  image="images/choomsang.jpeg"
   heading="โรงเรียนบ้านหนองชุมแสง"
 %}
 {% endcapture %}
