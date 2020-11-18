@@ -2,31 +2,34 @@
 title: Team
 ---
 
-# <i class="fas fa-users"></i>ผลงานของเรา
+# <i class="fas fa-users"></i>ข่าวประชาสัมพันธ์
 
-## ตัวอย่างรูปภาพสินค้าพร้อมคำอธิบาย Product gallery with description
+## นักเรียนที่ได้รับทุนโครงการทุนการศึกษาเพื่อน้อง (TEF-Net) ปีการศึกษา 2561
 
 {% capture mediumcards %}
 {%
   include card.html
   size="medium"
-  image="images/Packages_EZmini.jpg"
-  heading="EZ Mini"
-  row1="แพ็คเกจ EZ Mini เหมาะสำหรับเว็บไซต์ขนาดเล็ก ความยาวไม่เกิน 1 หน้า และมีรูปภาพน้อยกว่า 10 รูป"
+  image="images/bacteria.jpg"
+  heading="โรงเรียนวัดห้วยโป่ง"
 %}
 {%
   include card.html
   size="medium"
-  image="images/Packages_EZpro.jpg"
-  heading="EZ Pro"
-  row1="แพ็คเกจ EZ Pro เหมาะสำหรับเว็บไซต์ขนาดกลาง ความยาวไม่เกิน 4 หน้า และมีรูปภาพน้อยกว่า 30 รูป"
+  image="images/bacteria.jpg"
+  heading="โรงเรียนบ้านเขาสระพานนาค"
 %}
 {%
   include card.html
   size="medium"
-  image="images/Packages_EZpromax.jpg"
-  heading="EZ Pro Max"
-  row1="แพ็คเกจ EZ Pro Max เหมาะสำหรับเว็บไซต์ขนาดใหญ่ ความยาวเกิน 4 หน้า หรือมีรูปภาพมากกว่า 30 รูป"
+  image="images/bacteria.jpg"
+  heading="โรงเรียนพระธาตุขามแก่น"
+%}
+{%
+  include card.html
+  size="medium"
+  image="images/bacteria.jpg"
+  heading="โรงเรียนบ้านหนองชุมแสง"
 %}
 {% endcapture %}
 
