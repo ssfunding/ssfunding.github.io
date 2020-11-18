@@ -9,32 +9,35 @@ title: Resources
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  heading="กรอกใบสมัครขอรับทุน"
+  image="images/form.png"
+  heading="1.กรอกใบสมัครขอรับทุน"
   row1="น้องๆนักเรียนที่สนใจสามารถดาวน์โหลดใบสมัคร พร้อมกรอกรายละเอียดให้ครบถ้วน"
 %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
-  heading="รับรองโดยคุณครูที่ปรึกษา"
+  image="images/teacher.png"
+  heading="2.รับรองโดยคุณครูที่ปรึกษา"
   row1="เมื่อน้องๆ กรอกข้อมูลในใบสมัครครบถ้วนแล้ว ให้นำใบบสมัครมอบให้คุณครูที่ปรึกษาเพื่อรับรองความถูกต้อง พร้อมลงความคิดเห็นของคุณครูที่ปรึกษา"
 %}
+{% endcapture %}
+
+{% include centerer.html html=mediumcards %}
+
+
+{% capture mediumcards %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
-  heading="คุณครูที่ปรึกษารวบรวมใบสมัคร"
+  image="images/curriculum.png"
+  heading="3.คุณครูที่ปรึกษารวบรวมใบสมัคร"
   row1="คุณครูที่ปรึกษารวบรวมใบสมัครของน้องๆนักเรียนที่สนใจ แล้วส่งมาที่อีเมล์ของทางโครงการทุนการศึกษาเพื่อน้อง ภายในระยะเวลาที่กำหนด"
 %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
-  heading="ตรวจสอบเอกสาร"
+  image="images/graduation.png"
+  heading="4.ตรวจสอบเอกสาร"
   row1="เมื่อทางโครงการได้รับ เอกสารครบถ้วนแล้ว จะดำเนินการคัดเลือกนักเรียนที่ได้รับทุน และจะประกาศรายชื่อของนักเรียนที่ได้รับทุน บนเว็บไซต์ของทางโครงการ"
 %}
 {% endcapture %}
