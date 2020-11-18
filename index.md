@@ -50,3 +50,6 @@ title: Home
 {% endcapture %}
 
 {% include centerer.html html=mediumcards %}
+
+## ผู้บริจาค
+หากผู้บริจาคต้องการสอบถามรายละเอียดเพิ่มเติมเกี่ยวกับโครงการทุนการศึกษาเพื่อน้อง หรือการบริจาคทุนการศึกษา ท่านสามารถติดต่อโครงการทุนการศึกษาเพื่อน้อง(TEF-Net) ได้ที่ [www.TEF-Net.com](www.TEF-Net.com) หรือ [TEFNetinfo@gmail.com](mailto:TEFNetinfo@gmail.com) หรือ [www.facebook.com/TEFNetinfo](www.facebook.com/TEFNetinfo)
