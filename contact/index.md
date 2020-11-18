@@ -3,21 +3,24 @@ title: Contact
 ---
 
 # <i class="fas fa-envelope"></i>ติดต่อเรา/Contact
+ทีมงานโครงการทุนการศึกษาเพื่อน้อง (TEF-Net) {:.center}
 
-Website development, Personal Website, Website Design, Affordable Website etc.  <br>
-ออกแบบเว็บไซต์ สั่งทำเว็บไซต์ เว็บไซต์ส่วนตัว เว็บไซต์ราคากันเอง เว็บไซต์ราคาถูก <br>
-ลูกค้าสามารถติดต่อเราผ่านอีเมลล์หรือเฟสบุคได้ที่ลิ้งค์ด้านล่าง <br>
-ทีมงาน EZwebpage จะติดต่อกลับลูกค้าภายใน 24 ชม.
-{:.center}
+1. อรภัทร์ งามนิธิพร   ฝ่ายรณรงค์ทุนการศึกษา
+
+2. ชยาวรรณ ใจกล้า            ฝ่ายประชาสัมพันธ์
+
+3. ณัฐภณ ป้อมบุบผา                    ฝ่ายเว็บไซต์
+
+4. ณัฐวุฒิ หอมทอง                 ฝ่ายประสานงาน
+
+5. สร้างสรรค์ วรัคคกุล                ฝ่ายโครงการ
 
 ## อีเมล์/Email
 
-[EZ.webpage.99@gmail.com](mailto:ez.webpage.99@gmail.com)
+[TEFNetinfo@gmail.com](mailto:TEFNetinfo@gmail.com)
 {:.center}
 
 ## <i class="fab fa-facebook"></i>Facebook
 
-[EZwebpage](https://facebook.com/EZwebpage4U)
+[TEFNetinfo](https://www.facebook.com/TEFNetinfo/)
 {:.center}
-
-{% include figure.html image="icons/share-thumbnail.jpg" width="100%" %}
