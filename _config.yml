@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: ทุนการศึกษาเพื่อน้อง TEF-Net # title of site, used in tab name and elsewhere
+title: TEF-Net ทุนการศึกษาเพื่อน้อง # title of site, used in tab name and elsewhere
 email: TEFNetinfo@gmail.com # default email
 # google: Jane Smith # default name to search on Google Scholar
 # github: fakelab # default GitHub user/org, without the @
