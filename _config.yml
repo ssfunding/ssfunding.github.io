@@ -26,7 +26,7 @@ defaults:
       path: ""
     values:
       description: ทุนการศึกษาเพื่อน้อง Thailand Educational Funding Network ทุนการศึกษาเพื่อน้องๆนักเรียน ที่ขาดแคลนทุนทรัพย์ # description that will show under search engine results
-      background: images/BG.jpg # background image in header and footer
+      background: images/IMG_6980.JPG # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:
