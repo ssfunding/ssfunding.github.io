@@ -1,18 +1,18 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: EZwebpage # title of site, used in tab name and elsewhere
-email: ez.webpage.99@gmail.com # default email
+title: ทุนการศึกษาเพื่อน้อง Thailand Educational Funding Network # title of site, used in tab name and elsewhere
+email: TEFNetinfo@gmail.com # default email
 # google: Jane Smith # default name to search on Google Scholar
 # github: fakelab # default GitHub user/org, without the @
 twitter: faketwitterhandle # default Twitter handle, without the @
 instagram: fakeinstagramhandle # default Instagram handle, without the @
 youtube: fakeyoutubechannel # default YouTube channel handle
-facebook: EZwebpage4U
+facebook: TEFNetinfo
 
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: ""
+baseurl: "tef-net.com"
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:
@@ -25,7 +25,7 @@ defaults:
   - scope:
       path: ""
     values:
-      description: EZwebpage สร้างเว็บไซต์ราคาถูก High quality website at your affordable price เว็บไซต์คุณภาพ ราคาเป็นกันเอง เว็บไซต์ ราคาถูก ขนาดเล็ก # description that will show under search engine results
+      description: ทุนการศึกษาเพื่อน้อง Thailand Educational Funding Network ทุนการศึกษาเพื่อน้องๆนักเรียน ที่ขาดแคลนทุนทรัพย์ # description that will show under search engine results
       background: images/BG.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
