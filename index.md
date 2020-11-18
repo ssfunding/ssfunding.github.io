@@ -20,6 +20,7 @@ title: Home
 {% capture mediumcards %}
 {%
   include card.html
+  fit="false"
   size="medium"
   image="images/scholarship.png"
   heading="ทุนการศึกษา"
