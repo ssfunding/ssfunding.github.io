@@ -1,5 +1,5 @@
 ---
-title: Team
+title: News
 ---
 
 # <i class="fas fa-users"></i>ข่าวประชาสัมพันธ์
