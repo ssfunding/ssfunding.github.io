@@ -21,31 +21,28 @@ title: Home
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
+  image="images/scholarship.png"
   heading="ทุนการศึกษา"
   row1="ทุนการศึกษา เพื่อสนับสนุนน้องๆ ที่ขาดแคลนทุนทรัพย์ และเพื่อเป็นกำลังใจให้น้องๆ ในการศึกษาเล่าเรียน"
 %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
+  image="images/lunch-box.png"
   heading="ค่าอาหารกลางวัน"
   row1="โครงการทุนการศึกษาเพื่อน้องมอบค่าอาหารกลางวันสำหรับน้องนักเรียนที่ขาดแคลนทุนทรัพย์"
 %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
+  image="images/pen.png"
   heading="อุปกรณ์การเรียน"
   row1="โครงการทุนการศึกษาเพื่อน้องสนับสนุนค่าใช้จ่ายของน้องๆนักเรียนเพื่อจัดซื้ออุปกรณ์การเรียนที่จำเป็น"
 %}
 {%
   include card.html
   size="medium"
-  image="images/space.jpg"
-  link="https://nasa.gov/"
+  image="images/uniform.png"
   heading="ชุดนักเรียน"
   row1="โครงการทุนการศึกษาเพื่อน้องสนับสนุนค่าใช้จ่ายเพื่อจัดซื้อชุดนักเรียนสำหรับน้องๆที่ขาดแคลน"
 %}
