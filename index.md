@@ -17,39 +17,38 @@ title: Home
 โดยทางโครงการมีจุดประสงค์หลัก 4 ประการ คือ
 {:.center}
 
-{% capture mediumcards %}
+{% capture largecards %}
 {%
   include card.html
-  fit="false"
-  size="medium"
+  size="large"
   image="images/scholarship.png"
   heading="ทุนการศึกษา"
   row1="ทุนการศึกษา เพื่อสนับสนุนน้องๆ ที่ขาดแคลนทุนทรัพย์ และเพื่อเป็นกำลังใจให้น้องๆ ในการศึกษาเล่าเรียน"
 %}
 {%
   include card.html
-  size="medium"
+  size="large"
   image="images/lunch-box.png"
   heading="ค่าอาหารกลางวัน"
   row1="โครงการทุนการศึกษาเพื่อน้องมอบค่าอาหารกลางวันสำหรับน้องนักเรียนที่ขาดแคลนทุนทรัพย์"
 %}
 {%
   include card.html
-  size="medium"
+  size="large"
   image="images/pen.png"
   heading="อุปกรณ์การเรียน"
   row1="โครงการทุนการศึกษาเพื่อน้องสนับสนุนค่าใช้จ่ายของน้องๆนักเรียนเพื่อจัดซื้ออุปกรณ์การเรียนที่จำเป็น"
 %}
 {%
   include card.html
-  size="medium"
+  size="large"
   image="images/uniform.png"
   heading="ชุดนักเรียน"
   row1="โครงการทุนการศึกษาเพื่อน้องสนับสนุนค่าใช้จ่ายเพื่อจัดซื้อชุดนักเรียนสำหรับน้องๆที่ขาดแคลน"
 %}
 {% endcapture %}
 
-{% include centerer.html html=mediumcards %}
+{% include centerer.html html=largecards %}
 
 ## ผู้บริจาค
 หากผู้บริจาคต้องการสอบถามรายละเอียดเพิ่มเติมเกี่ยวกับโครงการทุนการศึกษาเพื่อน้อง หรือการบริจาคทุนการศึกษา ท่านสามารถติดต่อโครงการทุนการศึกษาเพื่อน้อง(TEF-Net) ได้ที่ [www.TEF-Net.com](www.TEF-Net.com) หรือ [TEFNetinfo@gmail.com](mailto:TEFNetinfo@gmail.com) หรือ [www.facebook.com/TEFNetinfo](www.facebook.com/TEFNetinfo)
